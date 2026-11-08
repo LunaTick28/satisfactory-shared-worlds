@@ -20,27 +20,20 @@
       "playerId": "76561198956564961"
     }
   },
-  "lastSession": null,
-  "lease": {
-    "acquiredAt": "2026-11-08T09:46:07.332Z",
-    "baseRevision": 1,
-    "expiresAt": "2026-11-08T09:47:00.731Z",
+  "lastSession": {
+    "endedAt": "2026-11-08T09:46:19.311Z",
     "generation": 1,
-    "holder": {
+    "host": {
       "displayName": "LunaTick28",
       "installId": "70CE98EF-4195-36E0-6E87-7F934D91ADEB",
       "platform": "None",
       "playerId": "76561198956564961"
     },
-    "hostReady": false,
-    "join": null,
-    "nonce": "219684fab3799a081887f6b660c9421d",
-    "phase": "PREPARING",
-    "players": [],
-    "renewedAt": "2026-11-08T09:46:15.731Z"
+    "reason": "released"
   },
+  "lease": null,
   "schemaVersion": 2,
-  "stateVersion": 3,
-  "updatedAt": "2026-11-08T09:46:15.731Z",
+  "stateVersion": 4,
+  "updatedAt": "2026-11-08T09:46:19.311Z",
   "worldId": "sons-667330"
 }
