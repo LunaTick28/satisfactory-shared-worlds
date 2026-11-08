@@ -1,5 +1,5 @@
 {
-  "generation": 1,
+  "generation": 2,
   "handoff": null,
   "head": {
     "createdAt": "2026-11-08T09:46:10.582Z",
@@ -31,9 +31,26 @@
     },
     "reason": "released"
   },
-  "lease": null,
+  "lease": {
+    "acquiredAt": "2026-11-08T09:52:02.079Z",
+    "baseRevision": 1,
+    "expiresAt": "2026-11-08T09:52:47.079Z",
+    "generation": 2,
+    "holder": {
+      "displayName": "LunaTick28",
+      "installId": "70CE98EF-4195-36E0-6E87-7F934D91ADEB",
+      "platform": "None",
+      "playerId": "76561198956564961"
+    },
+    "hostReady": false,
+    "join": null,
+    "nonce": "083d0cf0fe065b6e81123611b40a4d1a",
+    "phase": "PREPARING",
+    "players": [],
+    "renewedAt": "2026-11-08T09:52:02.079Z"
+  },
   "schemaVersion": 2,
-  "stateVersion": 4,
-  "updatedAt": "2026-11-08T09:46:19.311Z",
+  "stateVersion": 5,
+  "updatedAt": "2026-11-08T09:52:02.079Z",
   "worldId": "sons-667330"
 }
