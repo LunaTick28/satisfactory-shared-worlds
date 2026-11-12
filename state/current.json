@@ -2,18 +2,18 @@
   "generation": 5,
   "handoff": null,
   "head": {
-    "createdAt": "2026-11-12T03:40:34.510Z",
+    "createdAt": "2026-11-12T03:45:34.395Z",
     "gameBuild": "517554",
     "gamePhase": "Onboarding",
     "generation": 5,
     "mapName": "Persistent_Level",
     "modVersion": "",
-    "number": 42,
-    "object": "32751b9443d5e5d675cf61e147f56ebacc643d28704d5832475d9d6257cf5ce3",
-    "playDurationSeconds": 23865,
-    "previousRevision": 41,
+    "number": 43,
+    "object": "931837e2348d48f74be3b9cc85cad1480d58fca418b09895edbd67d356cb15c1",
+    "playDurationSeconds": 24163,
+    "previousRevision": 42,
     "reason": "autosave",
-    "size": 645529,
+    "size": 645705,
     "uploader": {
       "displayName": "LunaTick28",
       "installId": "70CE98EF-4195-36E0-6E87-7F934D91ADEB",
@@ -34,8 +34,8 @@
   },
   "lease": {
     "acquiredAt": "2026-11-12T01:15:26.967Z",
-    "baseRevision": 42,
-    "expiresAt": "2026-11-12T03:46:14.402Z",
+    "baseRevision": 43,
+    "expiresAt": "2026-11-12T03:46:23.156Z",
     "generation": 5,
     "holder": {
       "displayName": "LunaTick28",
@@ -63,10 +63,10 @@
         "playerId": "76561198835016440"
       }
     ],
-    "renewedAt": "2026-11-12T03:45:29.402Z"
+    "renewedAt": "2026-11-12T03:45:38.156Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 591,
-  "updatedAt": "2026-11-12T03:45:29.402Z",
+  "stateVersion": 592,
+  "updatedAt": "2026-11-12T03:45:38.156Z",
   "worldId": "sons-667330"
 }
