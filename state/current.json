@@ -35,7 +35,7 @@
   "lease": {
     "acquiredAt": "2026-11-12T01:15:26.967Z",
     "baseRevision": 34,
-    "expiresAt": "2026-11-12T02:36:25.492Z",
+    "expiresAt": "2026-11-12T02:36:44.967Z",
     "generation": 5,
     "holder": {
       "displayName": "LunaTick28",
@@ -50,7 +50,7 @@
       "value": "Steam://127a58c700008601"
     },
     "nonce": "f2ca587f3afbcfc1ffe6e028ef00e607",
-    "phase": "SAVING",
+    "phase": "HOSTING",
     "players": [
       {
         "displayName": "LunaTick28",
@@ -63,10 +63,10 @@
         "playerId": "76561198835016440"
       }
     ],
-    "renewedAt": "2026-11-12T02:35:40.492Z"
+    "renewedAt": "2026-11-12T02:35:59.967Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 449,
-  "updatedAt": "2026-11-12T02:35:42.399Z",
+  "stateVersion": 450,
+  "updatedAt": "2026-11-12T02:35:59.967Z",
   "worldId": "sons-667330"
 }
