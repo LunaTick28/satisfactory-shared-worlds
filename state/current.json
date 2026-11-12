@@ -35,7 +35,7 @@
   "lease": {
     "acquiredAt": "2026-11-12T01:15:26.967Z",
     "baseRevision": 38,
-    "expiresAt": "2026-11-12T03:24:52.586Z",
+    "expiresAt": "2026-11-12T03:25:13.257Z",
     "generation": 5,
     "holder": {
       "displayName": "LunaTick28",
@@ -63,10 +63,10 @@
         "playerId": "76561198835016440"
       }
     ],
-    "renewedAt": "2026-11-12T03:24:07.586Z"
+    "renewedAt": "2026-11-12T03:24:28.257Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 519,
-  "updatedAt": "2026-11-12T03:24:07.586Z",
+  "stateVersion": 520,
+  "updatedAt": "2026-11-12T03:24:28.257Z",
   "worldId": "sons-667330"
 }
