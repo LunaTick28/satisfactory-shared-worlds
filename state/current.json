@@ -1,5 +1,5 @@
 {
-  "generation": 5,
+  "generation": 6,
   "handoff": null,
   "head": {
     "createdAt": "2026-11-12T04:40:34.530Z",
@@ -22,8 +22,8 @@
     }
   },
   "lastSession": {
-    "endedAt": "2026-11-11T03:07:50.757Z",
-    "generation": 4,
+    "endedAt": "2026-11-12T04:42:17.994Z",
+    "generation": 5,
     "host": {
       "displayName": "LunaTick28",
       "installId": "70CE98EF-4195-36E0-6E87-7F934D91ADEB",
@@ -33,40 +33,25 @@
     "reason": "expired"
   },
   "lease": {
-    "acquiredAt": "2026-11-12T01:15:26.967Z",
+    "acquiredAt": "2026-11-15T22:21:35.333Z",
     "baseRevision": 49,
-    "expiresAt": "2026-11-12T04:42:17.994Z",
-    "generation": 5,
+    "expiresAt": "2026-11-15T22:22:20.333Z",
+    "generation": 6,
     "holder": {
       "displayName": "LunaTick28",
       "installId": "70CE98EF-4195-36E0-6E87-7F934D91ADEB",
       "platform": "None",
       "playerId": "76561198956564961"
     },
-    "hostReady": true,
-    "join": {
-      "backend": "",
-      "kind": "online-session-id",
-      "value": "Steam://127a58c700008601"
-    },
-    "nonce": "f2ca587f3afbcfc1ffe6e028ef00e607",
-    "phase": "SAVING",
-    "players": [
-      {
-        "displayName": "LunaTick28",
-        "installId": "",
-        "playerId": "76561198956564961"
-      },
-      {
-        "displayName": "YoItsJarvo",
-        "installId": "",
-        "playerId": "76561198835016440"
-      }
-    ],
-    "renewedAt": "2026-11-12T04:41:32.994Z"
+    "hostReady": false,
+    "join": null,
+    "nonce": "7f142ccc63474f66b3b1c8ffd2e5dd18",
+    "phase": "PREPARING",
+    "players": [],
+    "renewedAt": "2026-11-15T22:21:35.333Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 686,
-  "updatedAt": "2026-11-12T04:41:32.994Z",
+  "stateVersion": 687,
+  "updatedAt": "2026-11-15T22:21:35.333Z",
   "worldId": "sons-667330"
 }
