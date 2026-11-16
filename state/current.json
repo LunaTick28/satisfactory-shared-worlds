@@ -35,7 +35,7 @@
   "lease": {
     "acquiredAt": "2026-11-16T03:35:52.043Z",
     "baseRevision": 101,
-    "expiresAt": "2026-11-16T05:52:43.661Z",
+    "expiresAt": "2026-11-16T05:53:03.624Z",
     "generation": 7,
     "holder": {
       "displayName": "LunaTick28",
@@ -56,17 +56,12 @@
         "displayName": "LunaTick28",
         "installId": "",
         "playerId": "76561198956564961"
-      },
-      {
-        "displayName": "YoItsJarvo",
-        "installId": "",
-        "playerId": "76561198835016440"
       }
     ],
-    "renewedAt": "2026-11-16T05:51:58.661Z"
+    "renewedAt": "2026-11-16T05:52:18.624Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 1431,
-  "updatedAt": "2026-11-16T05:51:58.661Z",
+  "stateVersion": 1432,
+  "updatedAt": "2026-11-16T05:52:18.624Z",
   "worldId": "sons-667330"
 }
