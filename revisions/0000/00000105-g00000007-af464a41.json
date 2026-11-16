@@ -1,0 +1,20 @@
+{
+  "createdAt": "2026-11-16T11:18:16.661Z",
+  "gameBuild": "517554",
+  "gamePhase": "Distribution Platform",
+  "generation": 7,
+  "mapName": "Persistent_Level",
+  "modVersion": "",
+  "number": 105,
+  "object": "af464a417a646b64131a9a2ce742419dee6242d6e6b2634d83aa0470e24bfc7d",
+  "playDurationSeconds": 50290,
+  "previousRevision": 104,
+  "reason": "autosave",
+  "size": 930108,
+  "uploader": {
+    "displayName": "LunaTick28",
+    "installId": "70CE98EF-4195-36E0-6E87-7F934D91ADEB",
+    "platform": "None",
+    "playerId": "76561198956564961"
+  }
+}
